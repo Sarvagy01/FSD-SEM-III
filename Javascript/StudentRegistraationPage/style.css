@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color:pink ;
+}
+form{
+    text-align: center;
+}
+.center-table{
+    border: 1px solid black;
+    margin: auto;
+}

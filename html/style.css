@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+form {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+}
+
+input, select, textarea {
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+input[type="reset"] {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
