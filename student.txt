@@ -1,0 +1,7 @@
+Name: Sarvagy Parashar
+Roll Number: 25
+Branch: CSE
+Semester: III
+Subject: Full Stack Development
+Marks: 85%
+Attendance: 92%
